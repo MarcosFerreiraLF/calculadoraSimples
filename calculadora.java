@@ -1,3 +1,4 @@
+//fonte:http://www.guj.com.br/t/exercicio-simples-calculadora-usando-o-console-do-java/85102
 import java.util.Scanner;
 public class Calc {
 	/*Declaração dos métodos*/
